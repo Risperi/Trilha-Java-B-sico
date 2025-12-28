@@ -50,7 +50,7 @@ git clone https://github.com/seu-usuario/seu-repositorio.git
 3. Execute a classe contador.java
 
 4. Insira os valores solicitados no terminal
-
+```
 ✅ Exemplo de Execução Válida
 
 Entrada:
