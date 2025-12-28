@@ -82,7 +82,7 @@ Saída:
 
 O segundo parâmetro deve ser maior que o primeiro
 
-🚀 Aprendizados
+## 🚀 Aprendizados
 
 Uso correto de estruturas de controle de fluxo
 
@@ -92,7 +92,7 @@ Boas práticas de organização de código em Java
 
 Leitura de dados pelo terminal
 
-👨‍💻 Autor
+## 👨‍💻 Autor
 
 André Thiago
 Estudante de Análise e Desenvolvimento de Sistemas
